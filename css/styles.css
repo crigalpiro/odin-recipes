@@ -1,0 +1,28 @@
+body {
+    background-color: #222244;
+    color: yellowgreen;
+}
+
+a:link{
+    color: yellow;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+    color: cyan;
+}
+
+h3 {
+    color: yellow;
+}
+
+p strong {
+    color: goldenrod;
+}
